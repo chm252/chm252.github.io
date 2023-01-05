@@ -203,6 +203,10 @@ body {
     z-index: 2;
 }
 
+.header_gone {
+    display: none;
+}
+
 .header_button {
     background-color: #059c4e;
     color : #cbface;
