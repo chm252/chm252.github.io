@@ -194,7 +194,7 @@ body {
 .header{
     display: flex;
     justify-content: space-between;
-    background-color: #700c1a;
+    background-color: #ac2000;
     padding : 1vw;
     border-radius: 5mm;
     position:fixed;
